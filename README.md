@@ -13,3 +13,4 @@
    <a href = "mailto:olavoz.nardariz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/olavo-nardari-leandro-14220a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
+  ![Snake animation](https://github.com/OlavnoNL/OlavoNL/blob/output/github-contribution-grid-snake.svg)
